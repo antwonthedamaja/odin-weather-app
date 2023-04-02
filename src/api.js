@@ -14,5 +14,5 @@ export async function handleSearchAsync() {
 //     .then(response => response.json())
 //     .then(response => {
 //         console.log(response);
-//     })
+//     });
 // }
